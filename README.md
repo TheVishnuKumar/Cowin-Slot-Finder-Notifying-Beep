@@ -13,7 +13,7 @@ Note: Not a too good solution but can be helpful. This won't automatically book 
 7. Right now, it looks for a slot in every 1 Minute. Keep it this way to avoid hitting Cowin API too much.
 8. Keep the window/tab opened in a separately.
 
-/***Copy from below to the end****/
+# Copy from below to the end
 
 function checkSlots() {
     let slots = document.getElementsByClassName('vaccine-box');
