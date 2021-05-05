@@ -1,6 +1,7 @@
 # Cowin-Slot-Finder-Notifying-Beep
+Descrption: This javascript helps to find out the slot once available on Cowin (India Vaccination Scheduler) app. This javascript code get executed in every one minute and notify you using the beep sound once slot is available.
 
-Author: Vishnu Kumar
+Note: Not a too good solution but can be helpful. This won't automatically book the slot.
 
 
 1. Go to https://www.cowin.gov.in/home (In a new window/tab)
